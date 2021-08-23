@@ -1,17 +1,22 @@
 {
   "files": {
-    "main.js": "/static/js/main.e60628f2.chunk.js",
-    "main.js.map": "/static/js/main.e60628f2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e149d678.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e149d678.js.map",
-    "static/js/2.ef3b9faa.chunk.js": "/static/js/2.ef3b9faa.chunk.js",
-    "static/js/2.ef3b9faa.chunk.js.map": "/static/js/2.ef3b9faa.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.ef3b9faa.chunk.js.LICENSE.txt": "/static/js/2.ef3b9faa.chunk.js.LICENSE.txt"
+    "main.css": "/ttmdung203/dochoikidworld-public.git/static/css/main.cb3adaf7.chunk.css",
+    "main.js": "/ttmdung203/dochoikidworld-public.git/static/js/main.df42eae8.chunk.js",
+    "main.js.map": "/ttmdung203/dochoikidworld-public.git/static/js/main.df42eae8.chunk.js.map",
+    "runtime-main.js": "/ttmdung203/dochoikidworld-public.git/static/js/runtime-main.dd176bf5.js",
+    "runtime-main.js.map": "/ttmdung203/dochoikidworld-public.git/static/js/runtime-main.dd176bf5.js.map",
+    "static/js/2.21c85390.chunk.js": "/ttmdung203/dochoikidworld-public.git/static/js/2.21c85390.chunk.js",
+    "static/js/2.21c85390.chunk.js.map": "/ttmdung203/dochoikidworld-public.git/static/js/2.21c85390.chunk.js.map",
+    "index.html": "/ttmdung203/dochoikidworld-public.git/index.html",
+    "static/css/main.cb3adaf7.chunk.css.map": "/ttmdung203/dochoikidworld-public.git/static/css/main.cb3adaf7.chunk.css.map",
+    "static/js/2.21c85390.chunk.js.LICENSE.txt": "/ttmdung203/dochoikidworld-public.git/static/js/2.21c85390.chunk.js.LICENSE.txt",
+    "static/media/baby-shower.70c13796.png": "/ttmdung203/dochoikidworld-public.git/static/media/baby-shower.70c13796.png",
+    "static/media/no-photo.9bf214b5.png": "/ttmdung203/dochoikidworld-public.git/static/media/no-photo.9bf214b5.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e149d678.js",
-    "static/js/2.ef3b9faa.chunk.js",
-    "static/js/main.e60628f2.chunk.js"
+    "static/js/runtime-main.dd176bf5.js",
+    "static/js/2.21c85390.chunk.js",
+    "static/css/main.cb3adaf7.chunk.css",
+    "static/js/main.df42eae8.chunk.js"
   ]
 }
