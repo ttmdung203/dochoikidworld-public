@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/dochoikidworld-public/static/css/main.cb3adaf7.chunk.css",
-    "main.js": "/dochoikidworld-public/static/js/main.df42eae8.chunk.js",
-    "main.js.map": "/dochoikidworld-public/static/js/main.df42eae8.chunk.js.map",
-    "runtime-main.js": "/dochoikidworld-public/static/js/runtime-main.172e9b7e.js",
-    "runtime-main.js.map": "/dochoikidworld-public/static/js/runtime-main.172e9b7e.js.map",
-    "static/js/2.21c85390.chunk.js": "/dochoikidworld-public/static/js/2.21c85390.chunk.js",
-    "static/js/2.21c85390.chunk.js.map": "/dochoikidworld-public/static/js/2.21c85390.chunk.js.map",
-    "index.html": "/dochoikidworld-public/index.html",
-    "static/css/main.cb3adaf7.chunk.css.map": "/dochoikidworld-public/static/css/main.cb3adaf7.chunk.css.map",
-    "static/js/2.21c85390.chunk.js.LICENSE.txt": "/dochoikidworld-public/static/js/2.21c85390.chunk.js.LICENSE.txt",
-    "static/media/baby-shower.70c13796.png": "/dochoikidworld-public/static/media/baby-shower.70c13796.png",
-    "static/media/no-photo.9bf214b5.png": "/dochoikidworld-public/static/media/no-photo.9bf214b5.png"
+    "main.css": "/static/css/main.17741823.chunk.css",
+    "main.js": "/static/js/main.31a8b122.chunk.js",
+    "main.js.map": "/static/js/main.31a8b122.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.48fbc1e8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.48fbc1e8.js.map",
+    "static/js/2.643a5241.chunk.js": "/static/js/2.643a5241.chunk.js",
+    "static/js/2.643a5241.chunk.js.map": "/static/js/2.643a5241.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.17741823.chunk.css.map": "/static/css/main.17741823.chunk.css.map",
+    "static/js/2.643a5241.chunk.js.LICENSE.txt": "/static/js/2.643a5241.chunk.js.LICENSE.txt",
+    "static/media/baby-shower.70c13796.png": "/static/media/baby-shower.70c13796.png",
+    "static/media/no-photo.9bf214b5.png": "/static/media/no-photo.9bf214b5.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.172e9b7e.js",
-    "static/js/2.21c85390.chunk.js",
-    "static/css/main.cb3adaf7.chunk.css",
-    "static/js/main.df42eae8.chunk.js"
+    "static/js/runtime-main.48fbc1e8.js",
+    "static/js/2.643a5241.chunk.js",
+    "static/css/main.17741823.chunk.css",
+    "static/js/main.31a8b122.chunk.js"
   ]
 }
