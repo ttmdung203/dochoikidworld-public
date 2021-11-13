@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.495000ad.chunk.css",
-    "main.js": "/static/js/main.11b6c5c9.chunk.js",
-    "main.js.map": "/static/js/main.11b6c5c9.chunk.js.map",
+    "main.css": "/static/css/main.dfba85fa.chunk.css",
+    "main.js": "/static/js/main.1bfe8ff5.chunk.js",
+    "main.js.map": "/static/js/main.1bfe8ff5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.48fbc1e8.js",
     "runtime-main.js.map": "/static/js/runtime-main.48fbc1e8.js.map",
     "static/js/2.09999a69.chunk.js": "/static/js/2.09999a69.chunk.js",
     "static/js/2.09999a69.chunk.js.map": "/static/js/2.09999a69.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.495000ad.chunk.css.map": "/static/css/main.495000ad.chunk.css.map",
+    "static/css/main.dfba85fa.chunk.css.map": "/static/css/main.dfba85fa.chunk.css.map",
     "static/js/2.09999a69.chunk.js.LICENSE.txt": "/static/js/2.09999a69.chunk.js.LICENSE.txt",
     "static/media/banner.bff4b9ce.svg": "/static/media/banner.bff4b9ce.svg",
     "static/media/img-noel.49cf4709.svg": "/static/media/img-noel.49cf4709.svg",
     "static/media/img-ship.77b7894e.svg": "/static/media/img-ship.77b7894e.svg",
     "static/media/img-shopee.357b50d3.svg": "/static/media/img-shopee.357b50d3.svg",
+    "static/media/img-shopping-cart.3fc5af68.svg": "/static/media/img-shopping-cart.3fc5af68.svg",
     "static/media/no-photo.9bf214b5.png": "/static/media/no-photo.9bf214b5.png",
     "static/media/pink-logo.6ff085f4.png": "/static/media/pink-logo.6ff085f4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.48fbc1e8.js",
     "static/js/2.09999a69.chunk.js",
-    "static/css/main.495000ad.chunk.css",
-    "static/js/main.11b6c5c9.chunk.js"
+    "static/css/main.dfba85fa.chunk.css",
+    "static/js/main.1bfe8ff5.chunk.js"
   ]
 }
